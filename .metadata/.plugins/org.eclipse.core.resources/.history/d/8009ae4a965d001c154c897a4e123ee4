@@ -6,7 +6,6 @@ public class GritClass {
 		// TODO Auto-generated method stub
 		System.out.println("Grit Master");
 		System.out.println("Grit branch");
-		System.out.println("Grit Master conflict");
 	}
 
 }
